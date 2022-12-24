@@ -17,9 +17,10 @@ namespace Aman.BookStore.Controllers
         {
             bookRepository = new BookRepository();
         }
-        public List<BookModel> GetAllBook()
+        public ViewResult GetAllBook()
         {
-            return bookRepository.GetAllBooks();
+            // return bookRepository.GetAllBooks();
+            return View();
         }
 
         public BookModel GetBookById(int id)
