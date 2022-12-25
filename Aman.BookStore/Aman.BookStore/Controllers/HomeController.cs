@@ -10,6 +10,14 @@ namespace Aman.BookStore.Controllers
     {
         public ViewResult Index()
         {
+           //var obj = new { Id=1,Name="Aman"};
+            return View();
+           // return View("ContactUs",obj);
+           // return View("../../Tempo/TempView");// for relative path
+           // return View("Tempo/TempView.cshtml");//full path with extension
+        } 
+        public ViewResult ContactUs()
+        {
             return View();
         }
     }

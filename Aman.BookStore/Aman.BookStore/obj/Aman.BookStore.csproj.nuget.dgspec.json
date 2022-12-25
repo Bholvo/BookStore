@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aman.pandit\\source\\repos\\BookStore\\Aman.BookStore\\Aman.BookStore\\Aman.BookStore.csproj": {}
+    "C:\\Users\\aman.pandit\\Source\\Repos\\BookStore\\Aman.BookStore\\Aman.BookStore\\Aman.BookStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aman.pandit\\source\\repos\\BookStore\\Aman.BookStore\\Aman.BookStore\\Aman.BookStore.csproj": {
+    "C:\\Users\\aman.pandit\\Source\\Repos\\BookStore\\Aman.BookStore\\Aman.BookStore\\Aman.BookStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aman.pandit\\source\\repos\\BookStore\\Aman.BookStore\\Aman.BookStore\\Aman.BookStore.csproj",
+        "projectUniqueName": "C:\\Users\\aman.pandit\\Source\\Repos\\BookStore\\Aman.BookStore\\Aman.BookStore\\Aman.BookStore.csproj",
         "projectName": "Aman.BookStore",
-        "projectPath": "C:\\Users\\aman.pandit\\source\\repos\\BookStore\\Aman.BookStore\\Aman.BookStore\\Aman.BookStore.csproj",
+        "projectPath": "C:\\Users\\aman.pandit\\Source\\Repos\\BookStore\\Aman.BookStore\\Aman.BookStore\\Aman.BookStore.csproj",
         "packagesPath": "C:\\Users\\aman.pandit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aman.pandit\\source\\repos\\BookStore\\Aman.BookStore\\Aman.BookStore\\obj\\",
+        "outputPath": "C:\\Users\\aman.pandit\\Source\\Repos\\BookStore\\Aman.BookStore\\Aman.BookStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aman.pandit\\AppData\\Roaming\\NuGet\\NuGet.Config",

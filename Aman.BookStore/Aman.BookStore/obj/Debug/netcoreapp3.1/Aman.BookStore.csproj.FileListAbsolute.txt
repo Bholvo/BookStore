@@ -104,3 +104,5 @@ C:\Users\aman.pandit\source\repos\BookStore\Aman.BookStore\Aman.BookStore\obj\De
 C:\Users\aman.pandit\source\repos\BookStore\Aman.BookStore\Aman.BookStore\obj\Debug\netcoreapp3.1\Aman.BookStore.RazorTargetAssemblyInfo.cs
 C:\Users\aman.pandit\source\repos\BookStore\Aman.BookStore\Aman.BookStore\obj\Debug\netcoreapp3.1\Aman.BookStore.Views.pdb
 C:\Users\aman.pandit\source\repos\BookStore\Aman.BookStore\Aman.BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetAllBook.cshtml.g.cs
+C:\Users\aman.pandit\source\repos\BookStore\Aman.BookStore\Aman.BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUs.cshtml.g.cs
+C:\Users\aman.pandit\Source\Repos\BookStore\Aman.BookStore\Aman.BookStore\bin\Debug\netcoreapp3.1\libman.json
